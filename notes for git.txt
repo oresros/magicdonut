@@ -1,0 +1,29 @@
+notes for using git:
+
+1. when finished working type in 
+	- git add .
+	
+		- This will make git track the changes you made in the folder
+		
+	- git commit -m "<add your comment here>"
+	
+		- YOU MUST DO THIS BEFORE PUSHING
+		- This command adds a comment to the commit you are going to push
+		- in the "", add your comment.
+		- it can be multiline, for example
+			 git commit -m "text text text
+			 test test"
+		
+		- just make sure you close your quotations
+		
+	- git push -u origin
+	
+		- this pushes your commit and any changes you made to the repository in github
+		
+		
+2. So in order, it should look like this
+	git add .
+	git commit -m "comment"
+	git push -u origin
+	
+3. cool cool :o
