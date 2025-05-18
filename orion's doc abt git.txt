@@ -1,0 +1,14 @@
+YOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!
+
+So basically, it costs money to run Unity Teams. 
+And GitHub is free as long as your program is open source.
+
+Therefore, THIS is what we're gonna do.
+
+1. Navigate to https://git-scm.com/ and download the version for Windows.
+2. Install the program, you might need the tech guy to install it on ur laptops.
+3. oh shoot i forgot that you can't right click in the schools laptops on student accounts.
+4. ok so we might need to make local admin accounts on our computers because we can't use git bash without right click
+5. if yall are cool w that i can probably figure out how to put local admin accounts on yall's computers like on mine
+
+ONCE THIS IS ALL DONE: open the how to push changes to github.txt to learn how to use git. 
