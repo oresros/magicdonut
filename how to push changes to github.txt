@@ -1,6 +1,8 @@
 notes for using git:
 
-1. when finished working type in 
+1. right click in the "magicdonut" folder and click "Open Git Bash here"
+
+2. when finished working type in 
 	- git add .
 	
 		- This will make git track the changes you made in the folder
@@ -21,9 +23,9 @@ notes for using git:
 		- this pushes your commit and any changes you made to the repository in github
 		
 		
-2. So in order, it should look like this
+3. So in order, it should look like this
 	git add .
 	git commit -m "comment"
 	git push -u origin
 	
-3. cool cool :o
+4. cool cool :o

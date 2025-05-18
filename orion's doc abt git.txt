@@ -11,4 +11,4 @@ Therefore, THIS is what we're gonna do.
 4. ok so we might need to make local admin accounts on our computers because we can't use git bash without right click
 5. if yall are cool w that i can probably figure out how to put local admin accounts on yall's computers like on mine
 
-ONCE THIS IS ALL DONE: open the how to push changes to github.txt to learn how to use git. 
+ONCE THIS IS ALL DONE: open the "how to push changes to github.txt" to learn how to use git. 
