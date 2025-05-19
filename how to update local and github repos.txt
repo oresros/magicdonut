@@ -1,5 +1,4 @@
-notes for using git:
-
+GitHub:
 1. right click in the "magicdonut" folder and click "Open Git Bash here"
 
 2. when finished working type in 
@@ -28,4 +27,10 @@ notes for using git:
 	git commit -m "comment"
 	git push -u origin
 	
-4. cool cool :o
+Updating ur local repo from GitHub:
+1. Right click in the magicdonut folder and click "Open Git Bash here"
+
+2. to update ur local repo to what is in GitHub, type in
+	git pull origin main
+
+3. congrats ur done, ur local repo is the same as github
